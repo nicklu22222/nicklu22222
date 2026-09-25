@@ -39,6 +39,19 @@
 
 - **双手书信**：见 `../exercises.md` 第 7 条。
 
+## 章节导读
+
+依英文版目录，全书分四部分。
+
+| 部分 | 英文标题 | 内容 |
+|---|---|---|
+| 一 | The Problem of the Wounded Inner Child | 受伤的表现、自查问卷（Wounded Child Questionnaire）、内在小孩如何受伤 |
+| 二 | Reclaiming Your Wounded Inner Child | 原始痛苦的哀伤工作，以及婴儿期、学步期、学龄前、学龄期、青春期五个阶段的回溯 |
+| 三 | Championing Your Wounded Inner Child | 让成年自我成为新的力量来源，给予新的许可和保护，并把矫正练习落实到生活中 |
+| 四 | Regeneration | 内在小孩作为重生与创造力的象征 |
+
+第二部分按年龄分章，可以只读与用户最相关的那一个阶段。
+
 ## 使用注意
 
 - 回溯练习可能唤起强烈情绪，建议每次只处理一个阶段，情绪过强时停下。

@@ -33,6 +33,21 @@
 - **依恋地图**：列出童年和现在生活中重要的人，分别用 1 到 5 分评估"我需要时他在不在""他会不会回应我的感受"。观察两张图的相似与不同。
 - **模型检验**：写下一句关于别人的预期（如"说出需要只会被嫌弃"），再寻找近期支持和反驳它的真实证据。
 
+## 章节导读
+
+本书由九篇讲稿组成，以下依英文版目录列出与缺爱最相关的几篇。
+
+| 英文篇名 | 可对应的概念 |
+|---|---|
+| Caring for Children | 照料是需要支持的工作，照料者本身也需要安全基地 |
+| The Origins of Attachment | 依恋是基本需要、依恋模式 |
+| Violence in the Family | 家庭中的暴力与依恋受挫 |
+| On Knowing What You Are Not Supposed to Know and Feeling What You Are Not Supposed to Feel | 知道不该知道的，感受不该感受的 |
+| The Role of Attachment in Personality Development | 内部工作模型、代际传递 |
+| Attachment, Communication, and the Therapeutic Process | 治疗的任务 |
+
+用户难以信任自己的感受，或记得家里"不许提"某些事时，"On Knowing…"一篇最为贴切。
+
 ## 使用注意
 
 - 书中常以"母亲"指代照料者，今天宜理解为任何主要照料者。

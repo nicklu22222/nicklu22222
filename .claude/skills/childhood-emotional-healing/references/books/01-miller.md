@@ -33,6 +33,18 @@
 
 - 场景回放、不寄出的信、"懂事"清单（见 `../exercises.md`）
 
+## 章节导读
+
+依 1997 年英文修订版（Basic Books）。早期英文版曾以 Prisoners of Childhood 为名出版，中译本的章节划分可能不同。
+
+| 章 | 英文章名 | 可对应的概念 |
+|---|---|---|
+| 1 | The Drama of the Gifted Child and How We Became Psychotherapists | 孩子的基本情感需要、"有天赋的孩子"、真实自我 |
+| 2 | Depression and Grandiosity: Two Related Forms of Denial | 两种常见后果、爱的幻觉、面对父母 |
+| 3 | The Vicious Circle of Contempt | 轻蔑的循环、代际传递 |
+
+用户说自己"很懂事"或"很成功却空虚"时，可建议先读第一、二章。
+
 ## 使用注意
 
 - 不急于讨论父母的难处，先让用户的感受得到确认。

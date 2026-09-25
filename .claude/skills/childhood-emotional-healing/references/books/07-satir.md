@@ -35,6 +35,20 @@
 - **规则改写**：萨提亚在工作中常把僵化的规则改写为有弹性的指南，例如把"我绝不能生气"改为"我可以生气，也可以选择表达的方式"。
 - **一致性表达句式**：用"我看到……我感到……我希望……"练习表达一个小需要。
 
+## 章节导读
+
+依 1988 年修订版 The New Peoplemaking 的英文目录，与 1972 年初版的章节编排略有差异。
+
+| 英文章名 | 可对应的概念 |
+|---|---|
+| Self-Worth: The Pot Nobody Watches | 自我价值的"罐子" |
+| Communication: Talking and Listening / Patterns of Communication | 四种不一致的沟通姿态、一致性沟通 |
+| The Rules You Live By | 家庭规则 |
+| Systems: Open or Closed? | 滋养型家庭与困扰型家庭 |
+| Your Family Map / The Family Blueprint | 描绘自己的家庭结构 |
+
+书中每章多附有可以与家人一起做的小练习，适合想从家庭互动入手的用户。
+
 ## 使用注意
 
 - 姿态描述的是压力下的行为，不代表一个人的本质，避免据此评判用户或其家人。

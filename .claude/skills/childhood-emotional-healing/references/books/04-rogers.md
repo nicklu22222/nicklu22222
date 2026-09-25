@@ -31,6 +31,21 @@
 - **评价来源追踪**：每当在心里批评自己，停下来问一句"这是谁的声音"，记录下来。
 - **自我共情回应**：把自己的一段困扰写下来，再以一个完全理解、不评判的倾听者口吻回应它。
 
+## 章节导读
+
+依英文版目录（全书七部分共二十一章）。"价值条件"一词主要见于罗杰斯 1959 年的理论论文，本书更多从咨询经验出发讨论相近的内容。
+
+| 章 | 英文章名 | 可对应的概念 |
+|---|---|---|
+| 1 | "This is Me" | 罗杰斯的个人经历与信念 |
+| 3 | The Characteristics of a Helping Relationship | 促进成长的三个条件 |
+| 6 | What It Means to Become a Person | 接纳的悖论、对经验开放 |
+| 8 | "To Be That Self Which One Truly Is": A Therapist's View of Personal Goals | 评价的来源内移、摆脱"应该" |
+| 9 | A Therapist's View of the Good Life: The Fully Functioning Person | 对经验开放 |
+| 16 | The Implications of Client-Centered Therapy for Family Life | 家庭中的真诚与接纳 |
+
+对自我要求很高的用户，第八章中关于"不再做应该成为的样子"的讨论较有帮助。
+
 ## 使用注意
 
 - 对话本身就应体现三个条件，这比讲解理论更重要。

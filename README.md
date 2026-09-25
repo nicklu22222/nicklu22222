@@ -19,7 +19,8 @@
    | 《性格的陷阱》 | 杰弗里·杨、珍妮特·克罗斯科 | 1993 |
 
    建议通过正版渠道获取，例如 Libby（可绑定所在地区的图书馆卡）、微信读书或正规书店。
-3. **技能**：`.claude/skills/childhood-emotional-healing/`。`SKILL.md` 负责按困扰选书和组织对话，每本书的要点放在 `references/books/`，练习汇总在 `references/exercises.md`。
+   技能本身不依赖图书馆账号。各书要点依据出版社页面、Open Library 与 Internet Archive 的公开书目记录整理，为转述而非原文。
+3. **技能**：`.claude/skills/childhood-emotional-healing/`。`SKILL.md` 负责按困扰选书和组织对话，每本书的要点与章节导读放在 `references/books/`，练习汇总在 `references/exercises.md`，测试用例放在 `evals/evals.json`。
 4. **使用**：在本仓库中打开 Claude Code，描述自己的具体困扰，Claude 会调用该技能，挑选合适的书目陪你梳理。
 
 > 本技能用于自我理解，无法替代专业心理咨询。如有自伤念头，中国大陆可拨打 12356 或 400-161-9995，澳大利亚可拨打 Lifeline 13 11 14。

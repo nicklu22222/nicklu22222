@@ -32,6 +32,25 @@
 - **责任清单**：分三栏写下"童年时我不需要为……负责""我的父母应当为……负责""如今我可以为……负责"。
 - **信念、感受与行为**：写下一条关于自己的信念（如"我不值得被关心"），再写它带来的感受和行为，观察其中的链条。
 
+## 章节导读
+
+依英文版目录，全书分两部分。
+
+第一部分 Toxic Parents 描述各类父母，从"Godlike Parents: The Myth of the Perfect Parent"开始，依次讨论不称职、控制、酗酒、言语虐待、身体虐待、性虐待的父母，最后一章"Why Do Parents Behave This Way?"从家庭系统的角度解释成因。
+
+第二部分 Reclaiming Your Life 讨论改变：
+
+| 英文章名 | 可对应的概念 |
+|---|---|
+| You Don't Have to Forgive | 不必原谅 |
+| "I'm a Grown-Up. Why Don't I Feel Like One?" | 成年后仍受父母影响 |
+| The Beginnings of Self-Definition | 信念、感受与行为 |
+| Who's Really Responsible? | 责任归属 |
+| Confrontation: The Road to Independence | 对质 |
+| Breaking the Cycle | 避免代际传递 |
+
+用户纠结要不要原谅父母时，可以参考"You Don't Have to Forgive"一章，同时对照米勒的观点。
+
 ## 使用注意
 
 - "有毒"一词较强烈，当用户对父母怀有复杂感情时谨慎使用。

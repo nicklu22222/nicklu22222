@@ -34,6 +34,23 @@
 - **记忆卡**：写一张随身卡片，内容包括：此刻的感受，这是哪个陷阱被触发，现实中有哪些证据，我可以采取的健康做法。触发时拿出来读。
 - **明确提出需要**：每天向一个信任的人明确说出一个小需要，例如"今天能陪我聊十分钟吗"。
 
+## 章节导读
+
+依英文版目录，全书共十七章。前五章讲原理，第六至十六章每章讨论一种陷阱，第十七章为 A Philosophy of Change。
+
+| 章 | 英文章名 | 可对应的概念 |
+|---|---|---|
+| 2 | Which Lifetraps Do You Have? | 自评问卷 |
+| 4 | Surrender, Escape, and Counterattack | 三种应对方式 |
+| 5 | How Lifetraps Change | 改变的步骤 |
+| 6 | "Please Don't Leave Me!": The Abandonment Lifetrap | 遗弃 |
+| 8 | "I'll Never Get the Love I Need": The Emotional Deprivation Lifetrap | 情感剥夺 |
+| 12 | "I'm Worthless": The Defectiveness Lifetrap | 缺陷 |
+| 14 | "I Always Do It Your Way!": The Subjugation Lifetrap | 屈从 |
+| 15 | "It's Never Quite Good Enough": The Unrelenting Standards Lifetrap | 苛刻标准 |
+
+每个陷阱章节都附有问卷和改变步骤，适合让用户先读第二章找到自己的陷阱，再跳到对应章节。
+
 ## 使用注意
 
 - 陷阱是理解模式的工具，不宜作为诊断标签。
